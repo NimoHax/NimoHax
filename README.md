@@ -25,7 +25,7 @@
 <a href="https://www.hackerrank.com/nimohax" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/hackerrank.svg" alt="nimohax" height="30" width="40" /></a>
 <a href="https://codeforces.com/profile/nimohax" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/codeforces.svg" alt="nimohax" height="30" width="40" /></a>
 <a href="https://leetcode.com/nimohax" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="nimohax" height="30" width="40" /></a>
-<a href="https://discord.gg/mkrXr8Nkee" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/discord.svg" alt="mkrXr8Nkee" height="30" width="40" /></a>
+<a href="https://discord.gg/SseV4r5jaw" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/discord.svg" alt="SseV4r5jaw" height="30" width="40" /></a>
 </p>
 
 <h3 align="left">Languages and Tools:</h3>
