@@ -10,9 +10,9 @@
 
 - 👯 I’m looking to collaborate on **AI related projects**
 
-- 👨‍💻 All of my projects are available at [https://github.com/TrixCoder?tab=repositories](https://github.com/TrixCoder?tab=repositories)
+- 👨‍💻 All of my projects are available at [https://github.com/NimoHax?tab=repositories](https://github.com/NimoHax?tab=repositories)
 
-- 📫 How to reach me **utk.bkkg@gmail.com**
+- 📫 How to reach me **nimohax@gmail.com**
 
 - ⚡ Fun fact **I started learning coding when I was 7**
 
