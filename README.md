@@ -1,8 +1,8 @@
-<h1 align="center">Hi 👋, I'm Utkarsh Kumar</h1>
+<h1 align="center">Hi 👋, I'm Biswajit Mondal</h1>
 <h3 align="center">A passionate developer who loves to innovate</h3>
 <img aligh="right" width="400" src="https://i.giphy.com/media/1oF1KAEYvmXBMo6uTS/giphy.webp" />
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=trixcoder&label=Profile%20views&color=0e75b6&style=flat" alt="trixcoder" /> </p>
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=NimoHax&label=Profile%20views&color=0e75b6&style=flat" alt="NimoHax" /> </p>
 
 - 🔭 I’m currently working on **cool projects**
 
