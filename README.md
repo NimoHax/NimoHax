@@ -2,7 +2,13 @@
 <!--                    BISWAJIT MONDAL                        -->
 <!-- ========================================================= -->
 
-<h1 align="center">Hi 👋, I'm Biswajit Mondal</h1>
+<div align="center">
+
+<img
+src="https://capsule-render.vercel.app/api?type=waving&height=220&section=header&text=Biswajit%20Mondal&fontSize=50&fontColor=ffffff&animation=fadeIn&fontAlignY=38&desc=Developer%20%7C%20Founder%20%7C%20Builder&descAlignY=60&descSize=20"
+width="100%"
+alt="Biswajit Mondal"
+/>
 
 <h3 align="center">
   Developer • Founder • Builder
