@@ -1,39 +1,325 @@
+<!-- ========================================================= -->
+<!--                    BISWAJIT MONDAL                        -->
+<!-- ========================================================= -->
+
 <h1 align="center">Hi 👋, I'm Biswajit Mondal</h1>
-<h3 align="center">A passionate developer who loves to innovate</h3>
-<img aligh="right" width="400" src="https://i.giphy.com/media/1oF1KAEYvmXBMo6uTS/giphy.webp" />
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=NimoHax&label=Profile%20views&color=0e75b6&style=flat" alt="NimoHax" /> </p>
+<h3 align="center">
+  Developer • Builder • Technology Enthusiast
+</h3>
 
-- 🔭 I’m currently working on **cool projects**
+<p align="center">
+  Building software, Android applications, games, web platforms,
+  automation systems, and technology-driven digital products.
+</p>
 
-- 🌱 I’m currently learning **Ethical Hacking**
+<p align="center">
+  <a href="https://nimoo.me">
+    <img src="https://img.shields.io/badge/Portfolio-nimoo.me-111111?style=for-the-badge&logo=googlechrome&logoColor=white" alt="Portfolio">
+  </a>
+  <a href="https://github.com/NimoHax">
+    <img src="https://img.shields.io/badge/GitHub-NimoHax-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub">
+  </a>
+  <a href="https://github.com/VeloByteStudio">
+    <img src="https://img.shields.io/badge/VeloByte%20Studio-181717?style=for-the-badge&logo=github&logoColor=white" alt="VeloByte Studio">
+  </a>
+</p>
 
-- 👯 I’m looking to collaborate on **AI related projects**
+<p align="center">
+  <img src="https://komarev.com/ghpvc/?username=NimoHax&label=PROFILE%20VIEWS&color=0e75b6&style=flat" alt="Profile Views">
+</p>
 
-- 👨‍💻 All of my projects are available at [https://github.com/NimoHax?tab=repositories](https://github.com/NimoHax?tab=repositories)
+---
 
-- 📫 How to reach me **nimohax@gmail.com**
+# 👨‍💻 About Me
 
-- ⚡ Fun fact **I started learning coding when I was 7**
+I'm **Biswajit Mondal**, a developer and technology enthusiast focused on turning ideas into practical digital products.
 
-<h3 align="left">Connect with me:</h3>
+I enjoy working across different areas of technology — from software and Android development to game development, web platforms, networking, infrastructure, cloud systems, and automation.
+
+My development philosophy is simple:
+
+> **Learn → Build → Test → Improve → Ship**
+
+I enjoy taking projects from an initial concept through development, testing, deployment, publishing, and continuous improvement.
+
+### 🚀 Currently Working On
+
+- 💻 Software and technology projects
+- 🎮 Android game development and publishing
+- 🏢 VeloByte Studio projects
+- 📱 Android applications
+- 🌐 Web platforms and digital tools
+- 🤖 AI-powered applications and automation
+- ☁️ Cloud infrastructure and server deployment
+- 🔐 Cybersecurity and ethical hacking learning
+- 🛠️ Developer tools and technical utilities
+
+---
+
+# 🏢 VeloByte Studio
+
+<p align="center">
+  <strong>Building Games. Creating Experiences.</strong>
+</p>
+
+**VeloByte Studio** is an independent game and application development & publishing studio focused on creating, developing, testing, optimizing, and publishing digital products.
+
+### 🎮 Current Game
+
+## ➡️ Arrow Puzzle
+
+**Arrow Puzzle** is a strategic puzzle game built around logic, planning, movement, and progressively challenging gameplay.
+
+Players need to analyze the board, understand movement patterns, plan their actions, and solve increasingly challenging puzzles.
+
+| Platform | Genre | Developer | Publisher |
+|:--:|:--:|:--:|:--:|
+| Android | Puzzle / Strategy | VeloByte Studio | VeloByte Studio |
+
+<p align="center">
+  <strong>Think Ahead • Plan Your Move • Solve the Puzzle</strong>
+</p>
+
+<p align="center">
+  <a href="https://github.com/VeloByteStudio/arrowpuzzle">
+    <img src="https://img.shields.io/badge/VIEW%20ARROW%20PUZZLE-181717?style=for-the-badge&logo=github&logoColor=white" alt="Arrow Puzzle">
+  </a>
+  <a href="https://github.com/VeloByteStudio">
+    <img src="https://img.shields.io/badge/VELOBYTE%20STUDIO-111111?style=for-the-badge&logo=github&logoColor=white" alt="VeloByte Studio">
+  </a>
+</p>
+
+---
+
+# 🌐 Personal Portfolio
+
+## nimoo.me
+
+My personal portfolio and technology space where I showcase my work, projects, technical interests, and digital products.
+
+<p align="center">
+  <a href="https://nimoo.me">
+    <img src="https://img.shields.io/badge/VISIT%20PORTFOLIO-nimoo.me-111111?style=for-the-badge&logo=googlechrome&logoColor=white" alt="Visit Portfolio">
+  </a>
+</p>
+
+---
+
+# 🚀 What I Build
+
+<table>
+<tr>
+<td width="50%">
+
+### 🎮 Game Development
+
+Designing and developing Android games with gameplay systems, levels, UI, optimization, testing, and publishing workflows.
+
+</td>
+
+<td width="50%">
+
+### 📱 Android Development
+
+Building Android applications with modern technologies and user-focused interfaces.
+
+</td>
+</tr>
+
+<tr>
+<td width="50%">
+
+### 🌐 Web Development
+
+Creating websites, web applications, dashboards, APIs, utilities, and digital platforms.
+
+</td>
+
+<td width="50%">
+
+### 🤖 AI & Automation
+
+Exploring AI-powered applications, assistants, automation systems, and intelligent workflows.
+
+</td>
+</tr>
+
+<tr>
+<td width="50%">
+
+### ☁️ Cloud & Infrastructure
+
+Working with Linux servers, Docker, hosting, deployment, networking, DNS, and cloud infrastructure.
+
+</td>
+
+<td width="50%">
+
+### 🔐 Cybersecurity
+
+Learning security concepts, system security, networking, secure development, and ethical cybersecurity practices.
+
+</td>
+</tr>
+
+<tr>
+<td width="50%">
+
+### 🖥️ Hardware & IT
+
+PC assembly, Windows installation, troubleshooting, system maintenance, and hardware-level diagnostics.
+
+</td>
+
+<td width="50%">
+
+### 🌐 Networking
+
+LAN configuration, routers, switches, IP networking, connectivity, and infrastructure troubleshooting.
+
+</td>
+</tr>
+</table>
+
+---
+
+# 🛠️ Technologies & Tools
+
+### 💻 Programming Languages
+
 <p align="left">
-<a href="https://www.linkedin.com/in/mrbjm" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="mrbjm" height="30" width="40" /></a>
-<a href="https://www.instagram.com/nimohax" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="nimohax" height="30" width="40" /></a>
-<a href="https://www.youtube.com/channel/@NimoHax" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/youtube.svg" alt="NimoHax" height="30" width="40" /></a>
-<a href="https://www.codechef.com/users/nimohax" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.1.0/icons/codechef.svg" alt="nimohax" height="30" width="40" /></a>
-<a href="https://www.hackerrank.com/nimohax" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/hackerrank.svg" alt="nimohax" height="30" width="40" /></a>
-<a href="https://codeforces.com/profile/nimohax" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/codeforces.svg" alt="nimohax" height="30" width="40" /></a>
-<a href="https://leetcode.com/nimohax" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="nimohax" height="30" width="40" /></a>
-<a href="https://discord.gg/SseV4r5jaw" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/discord.svg" alt="SseV4r5jaw" height="30" width="40" /></a>
+  <img src="https://skillicons.dev/icons?i=python,java,kotlin,js,ts,php,cs,html,css" alt="Programming Languages">
 </p>
 
-<h3 align="left">Languages and Tools:</h3>
-<p align="left"> <a href="https://developer.android.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/android/android-original-wordmark.svg" alt="android" width="40" height="40"/> </a> <a href="https://www.arduino.cc/" target="_blank" rel="noreferrer"> <img src="https://cdn.worldvectorlogo.com/logos/arduino-1.svg" alt="arduino" width="40" height="40"/> </a>  </a> <a href="https://cloud.google.com" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/google_cloud/google_cloud-icon.svg" alt="gcp" width="40" height="40"/> </a> <a href="https://git-scm.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/> </a> <a href="https://www.w3.org/html/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/> </a> <a href="https://www.java.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" alt="java" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/> </a> <a href="https://www.linux.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" alt="linux" width="40" height="40"/> </a> <a href="https://www.mongodb.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original-wordmark.svg" alt="mongodb" width="40" height="40"/> </a> <a href="https://www.microsoft.com/en-us/sql-server" target="_blank" rel="noreferrer"> <img src="https://www.svgrepo.com/show/303229/microsoft-sql-server-logo.svg" alt="mssql" width="40" height="40"/> </a> <a href="https://www.mysql.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="40" height="40"/> </a> <a href="https://nodejs.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original-wordmark.svg" alt="nodejs" width="40" height="40"/> </a> </a> <a href="https://www.php.net" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/php/php-original.svg" alt="php" width="40" height="40"/> </a> <a href="https://www.python.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/> </a> 
+### 📱 Development
+
+<p align="left">
+  <img src="https://skillicons.dev/icons?i=androidstudio,unity,nodejs,nextjs,react,git,github" alt="Development Technologies">
 </p>
 
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=NimoHax&show_icons=true&locale=en&layout=compact" alt="NimoHax" /></p>
+### 🗄️ Databases & Backend
 
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=NimoHax&show_icons=true&locale=en" alt="NimoHax" /></p>
+<p align="left">
+  <img src="https://skillicons.dev/icons?i=mysql,mongodb,postgres,redis,firebase" alt="Databases and Backend">
+</p>
 
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=NimoHax&" alt="NimoHax" /></p>
+### ☁️ Cloud & Infrastructure
+
+<p align="left">
+  <img src="https://skillicons.dev/icons?i=linux,docker,nginx,gcp" alt="Cloud and Infrastructure">
+</p>
+
+### 🔧 Tools & Embedded
+
+<p align="left">
+  <img src="https://skillicons.dev/icons?i=arduino,vscode" alt="Tools and Embedded">
+</p>
+
+---
+
+# 📌 Featured Projects
+
+<table>
+<tr>
+<td width="50%">
+
+### 🎮 Arrow Puzzle
+
+Strategic Android puzzle game developed and published through VeloByte Studio.
+
+**Focus:** Game Development  
+**Technology:** Unity / C#
+
+</td>
+
+<td width="50%">
+
+### 🤖 NOVA
+
+Desktop assistant and automation-focused project exploring local commands and intelligent workflows.
+
+**Focus:** AI / Automation  
+**Technology:** Python
+
+</td>
+</tr>
+
+<tr>
+<td width="50%">
+
+### ☁️ VeloHost
+
+Hosting and infrastructure project focused on deployment, services, and server management.
+
+**Focus:** Cloud / Infrastructure
+
+</td>
+
+<td width="50%">
+
+### 🖼️ Pixora
+
+Image utility and processing platform focused on conversion, compression, resizing, and digital image tools.
+
+**Focus:** Web Development
+
+</td>
+</tr>
+
+<tr>
+<td width="50%">
+
+### 🎮 LifeLink
+
+Gaming management platform combining web application, backend, and gaming-related systems.
+
+**Focus:** Web / Backend
+
+</td>
+
+<td width="50%">
+
+### 🛠️ BM Universal Toolkit
+
+A practical toolkit concept for portable utilities, drivers, ISO resources, documentation, and backup workflows.
+
+**Focus:** IT / System Utilities
+
+</td>
+</tr>
+</table>
+
+---
+
+# 🏗️ Development Workflow
+
+```text
+                 💡 IDEA
+                   │
+                   ▼
+              📋 PLANNING
+                   │
+                   ▼
+               🎨 DESIGN
+                   │
+                   ▼
+            🛠️ DEVELOPMENT
+                   │
+                   ▼
+               🧪 TESTING
+                   │
+                   ▼
+            🔐 SECURITY
+                   │
+                   ▼
+           ⚡ OPTIMIZATION
+                   │
+                   ▼
+              🚀 RELEASE
+                   │
+                   ▼
+          📊 MONITORING
+                   │
+                   ▼
+        🔄 CONTINUOUS UPDATES
