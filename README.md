@@ -5,8 +5,12 @@
 <h1 align="center">Hi 👋, I'm Biswajit Mondal</h1>
 
 <h3 align="center">
-  Developer • Builder • Technology Enthusiast
+  Developer • Founder • Builder
 </h3>
+
+<p align="center">
+  Founder of VeloByte Studio • Software Developer • Technology Enthusiast
+</p>
 
 <p align="center">
   Building software, Android applications, games, web platforms,
@@ -15,13 +19,13 @@
 
 <p align="center">
   <a href="https://nimoo.me">
-    <img src="https://img.shields.io/badge/Portfolio-nimoo.me-111111?style=for-the-badge&logo=googlechrome&logoColor=white" alt="Portfolio">
+    <img src="https://img.shields.io/badge/🌐%20Portfolio-nimoo.me-111111?style=for-the-badge&logo=googlechrome&logoColor=white" alt="Portfolio">
   </a>
   <a href="https://github.com/NimoHax">
-    <img src="https://img.shields.io/badge/GitHub-NimoHax-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub">
+    <img src="https://img.shields.io/badge/💻%20GitHub-NimoHax-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub">
   </a>
   <a href="https://github.com/VeloByteStudio">
-    <img src="https://img.shields.io/badge/VeloByte%20Studio-181717?style=for-the-badge&logo=github&logoColor=white" alt="VeloByte Studio">
+    <img src="https://img.shields.io/badge/🎮%20VeloByte%20Studio-181717?style=for-the-badge&logo=github&logoColor=white" alt="VeloByte Studio">
   </a>
 </p>
 
@@ -33,60 +37,64 @@
 
 # 👨‍💻 About Me
 
-I'm **Biswajit Mondal**, a developer and technology enthusiast focused on turning ideas into practical digital products.
+I'm **Biswajit Mondal**, a developer, founder, and technology enthusiast focused on turning ideas into practical digital products.
 
-I enjoy working across different areas of technology — from software and Android development to game development, web platforms, networking, infrastructure, cloud systems, and automation.
+I enjoy working across different areas of technology — including software development, Android development, game development, web platforms, AI & automation, cloud infrastructure, networking, systems, and cybersecurity.
 
 My development philosophy is simple:
 
 > **Learn → Build → Test → Improve → Ship**
 
-I enjoy taking projects from an initial concept through development, testing, deployment, publishing, and continuous improvement.
+I enjoy taking projects from an initial concept through architecture, development, testing, deployment, publishing, and continuous improvement.
 
-### 🚀 Currently Working On
+### 🚀 What I Do
 
-- 💻 Software and technology projects
-- 🎮 Android game development and publishing
-- 🏢 VeloByte Studio projects
-- 📱 Android applications
-- 🌐 Web platforms and digital tools
-- 🤖 AI-powered applications and automation
-- ☁️ Cloud infrastructure and server deployment
-- 🔐 Cybersecurity and ethical hacking learning
-- 🛠️ Developer tools and technical utilities
+- 💻 Software & Application Development
+- 📱 Android Development
+- 🎮 Game Development
+- 🌐 Web Development
+- 🤖 AI & Automation
+- ☁️ Cloud & Infrastructure
+- 🌐 Networking & Systems
+- 🔐 Cybersecurity & Ethical Hacking
+- 🛠️ Developer Tools & Technical Utilities
+- 🚀 Product Development & Publishing
 
 ---
 
-# 🏢 VeloByte Studio
+# 🏢 Founder — VeloByte Studio
+
+<p align="center">
+  <img src="https://github.com/VeloByteStudio.png" width="120" alt="VeloByte Studio">
+</p>
+
+<h2 align="center">VeloByte Studio</h2>
 
 <p align="center">
   <strong>Building Games. Creating Experiences.</strong>
 </p>
 
-**VeloByte Studio** is an independent game and application development & publishing studio focused on creating, developing, testing, optimizing, and publishing digital products.
-
-### 🎮 Current Game
-
-## ➡️ Arrow Puzzle
-
-**Arrow Puzzle** is a strategic puzzle game built around logic, planning, movement, and progressively challenging gameplay.
-
-Players need to analyze the board, understand movement patterns, plan their actions, and solve increasingly challenging puzzles.
-
-| Platform | Genre | Developer | Publisher |
-|:--:|:--:|:--:|:--:|
-| Android | Puzzle / Strategy | VeloByte Studio | VeloByte Studio |
-
 <p align="center">
-  <strong>Think Ahead • Plan Your Move • Solve the Puzzle</strong>
+  Independent Game & Application Development and Publishing Studio
 </p>
 
+I am the **Founder of VeloByte Studio**, an independent technology studio focused on the development and publishing of games and applications.
+
+VeloByte Studio works across the product lifecycle — from **concept and design to development, testing, optimization, release, and ongoing updates**.
+
+### 🎯 VeloByte Studio Focus
+
+- 🎮 Game Development
+- 📱 Application Development
+- 🧩 Interactive Digital Experiences
+- 🎨 Product & UI/UX Development
+- ⚙️ Performance & Optimization
+- 🚀 Publishing & Distribution
+- 🔄 Product Updates & Maintenance
+
 <p align="center">
-  <a href="https://github.com/VeloByteStudio/arrowpuzzle">
-    <img src="https://img.shields.io/badge/VIEW%20ARROW%20PUZZLE-181717?style=for-the-badge&logo=github&logoColor=white" alt="Arrow Puzzle">
-  </a>
   <a href="https://github.com/VeloByteStudio">
-    <img src="https://img.shields.io/badge/VELOBYTE%20STUDIO-111111?style=for-the-badge&logo=github&logoColor=white" alt="VeloByte Studio">
+    <img src="https://img.shields.io/badge/EXPLORE%20VELOBYTE%20STUDIO-111111?style=for-the-badge&logo=github&logoColor=white" alt="VeloByte Studio">
   </a>
 </p>
 
@@ -96,11 +104,11 @@ Players need to analyze the board, understand movement patterns, plan their acti
 
 ## nimoo.me
 
-My personal portfolio and technology space where I showcase my work, projects, technical interests, and digital products.
+**nimoo.me** is my personal portfolio and technology space where I showcase my work, projects, technical interests, and digital products.
 
 <p align="center">
   <a href="https://nimoo.me">
-    <img src="https://img.shields.io/badge/VISIT%20PORTFOLIO-nimoo.me-111111?style=for-the-badge&logo=googlechrome&logoColor=white" alt="Visit Portfolio">
+    <img src="https://img.shields.io/badge/VISIT%20MY%20PORTFOLIO-nimoo.me-111111?style=for-the-badge&logo=googlechrome&logoColor=white" alt="Portfolio">
   </a>
 </p>
 
@@ -114,7 +122,7 @@ My personal portfolio and technology space where I showcase my work, projects, t
 
 ### 🎮 Game Development
 
-Designing and developing Android games with gameplay systems, levels, UI, optimization, testing, and publishing workflows.
+Designing and developing games with gameplay systems, levels, UI, optimization, testing, and publishing workflows.
 
 </td>
 
@@ -122,7 +130,7 @@ Designing and developing Android games with gameplay systems, levels, UI, optimi
 
 ### 📱 Android Development
 
-Building Android applications with modern technologies and user-focused interfaces.
+Building Android applications with modern development technologies and user-focused interfaces.
 
 </td>
 </tr>
@@ -158,7 +166,7 @@ Working with Linux servers, Docker, hosting, deployment, networking, DNS, and cl
 
 ### 🔐 Cybersecurity
 
-Learning security concepts, system security, networking, secure development, and ethical cybersecurity practices.
+Exploring security concepts, system security, networking, secure development, and ethical cybersecurity practices.
 
 </td>
 </tr>
@@ -168,7 +176,7 @@ Learning security concepts, system security, networking, secure development, and
 
 ### 🖥️ Hardware & IT
 
-PC assembly, Windows installation, troubleshooting, system maintenance, and hardware-level diagnostics.
+PC assembly, Windows installation, troubleshooting, system maintenance, and practical IT solutions.
 
 </td>
 
@@ -186,31 +194,31 @@ LAN configuration, routers, switches, IP networking, connectivity, and infrastru
 
 # 🛠️ Technologies & Tools
 
-### 💻 Programming Languages
+## 💻 Programming Languages
 
 <p align="left">
   <img src="https://skillicons.dev/icons?i=python,java,kotlin,js,ts,php,cs,html,css" alt="Programming Languages">
 </p>
 
-### 📱 Development
+## 📱 Application & Game Development
 
 <p align="left">
-  <img src="https://skillicons.dev/icons?i=androidstudio,unity,nodejs,nextjs,react,git,github" alt="Development Technologies">
+  <img src="https://skillicons.dev/icons?i=androidstudio,unity,nodejs,nextjs,react" alt="Application and Game Development">
 </p>
 
-### 🗄️ Databases & Backend
+## 🗄️ Databases & Backend
 
 <p align="left">
   <img src="https://skillicons.dev/icons?i=mysql,mongodb,postgres,redis,firebase" alt="Databases and Backend">
 </p>
 
-### ☁️ Cloud & Infrastructure
+## ☁️ Cloud, DevOps & Infrastructure
 
 <p align="left">
-  <img src="https://skillicons.dev/icons?i=linux,docker,nginx,gcp" alt="Cloud and Infrastructure">
+  <img src="https://skillicons.dev/icons?i=linux,docker,nginx,gcp,git,github" alt="Cloud and Infrastructure">
 </p>
 
-### 🔧 Tools & Embedded
+## 🔧 Tools & Embedded
 
 <p align="left">
   <img src="https://skillicons.dev/icons?i=arduino,vscode" alt="Tools and Embedded">
@@ -224,12 +232,11 @@ LAN configuration, routers, switches, IP networking, connectivity, and infrastru
 <tr>
 <td width="50%">
 
-### 🎮 Arrow Puzzle
+### 🎮 Game Development Projects
 
-Strategic Android puzzle game developed and published through VeloByte Studio.
+Game development projects focused on gameplay, puzzle mechanics, Android deployment, optimization, and publishing.
 
-**Focus:** Game Development  
-**Technology:** Unity / C#
+**Focus:** Unity • C# • Android
 
 </td>
 
@@ -237,10 +244,9 @@ Strategic Android puzzle game developed and published through VeloByte Studio.
 
 ### 🤖 NOVA
 
-Desktop assistant and automation-focused project exploring local commands and intelligent workflows.
+Desktop assistant and automation-focused technology project.
 
-**Focus:** AI / Automation  
-**Technology:** Python
+**Focus:** Python • Automation • AI
 
 </td>
 </tr>
@@ -250,9 +256,9 @@ Desktop assistant and automation-focused project exploring local commands and in
 
 ### ☁️ VeloHost
 
-Hosting and infrastructure project focused on deployment, services, and server management.
+Hosting and infrastructure-focused project for deployment and server management.
 
-**Focus:** Cloud / Infrastructure
+**Focus:** Cloud • Infrastructure • Web
 
 </td>
 
@@ -260,9 +266,9 @@ Hosting and infrastructure project focused on deployment, services, and server m
 
 ### 🖼️ Pixora
 
-Image utility and processing platform focused on conversion, compression, resizing, and digital image tools.
+Image utility and processing platform for digital image tools.
 
-**Focus:** Web Development
+**Focus:** Web Development • Image Processing
 
 </td>
 </tr>
@@ -272,9 +278,9 @@ Image utility and processing platform focused on conversion, compression, resizi
 
 ### 🎮 LifeLink
 
-Gaming management platform combining web application, backend, and gaming-related systems.
+Gaming management platform combining web application and backend systems.
 
-**Focus:** Web / Backend
+**Focus:** Web • Backend • Gaming
 
 </td>
 
@@ -282,9 +288,9 @@ Gaming management platform combining web application, backend, and gaming-relate
 
 ### 🛠️ BM Universal Toolkit
 
-A practical toolkit concept for portable utilities, drivers, ISO resources, documentation, and backup workflows.
+Practical toolkit concept for portable utilities, drivers, ISO resources, documentation, and backup workflows.
 
-**Focus:** IT / System Utilities
+**Focus:** IT • System Utilities
 
 </td>
 </tr>
@@ -295,31 +301,31 @@ A practical toolkit concept for portable utilities, drivers, ISO resources, docu
 # 🏗️ Development Workflow
 
 ```text
-                 💡 IDEA
-                   │
-                   ▼
-              📋 PLANNING
-                   │
-                   ▼
-               🎨 DESIGN
-                   │
-                   ▼
-            🛠️ DEVELOPMENT
-                   │
-                   ▼
-               🧪 TESTING
-                   │
-                   ▼
-            🔐 SECURITY
-                   │
-                   ▼
-           ⚡ OPTIMIZATION
-                   │
-                   ▼
-              🚀 RELEASE
-                   │
-                   ▼
-          📊 MONITORING
-                   │
-                   ▼
-        🔄 CONTINUOUS UPDATES
+                         💡 IDEA
+                           │
+                           ▼
+                      📋 PLANNING
+                           │
+                           ▼
+                        🏗️ DESIGN
+                           │
+                           ▼
+                    💻 DEVELOPMENT
+                           │
+                           ▼
+                       🧪 TESTING
+                           │
+                           ▼
+                     🔐 SECURITY
+                           │
+                           ▼
+                    ⚡ OPTIMIZATION
+                           │
+                           ▼
+                       🚀 RELEASE
+                           │
+                           ▼
+                     📊 MONITORING
+                           │
+                           ▼
+                  🔄 CONTINUOUS UPDATE
